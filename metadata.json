@@ -1,0 +1,6 @@
+{
+  "name": "Dennys pizzaria - Delivery de Pizzas Artesanais",
+  "description": "Landing page oficial da Dennys pizzaria. Pizzas artesanais assadas no forno a lenha, massa de fermentação lenta e delivery rápido via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
