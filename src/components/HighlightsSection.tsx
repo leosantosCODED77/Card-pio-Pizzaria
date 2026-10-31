@@ -39,7 +39,7 @@ export const HighlightsSection: React.FC = () => {
               <span>Seleção do Chef</span>
             </div>
             <h2 className="font-display text-3xl sm:text-4xl font-bold tracking-tight text-white">
-              As Favoritas da Dennys pizzaria
+              As Favoritas da Pizzaria Brasa Nobre
             </h2>
             <p className="mt-2 text-base text-neutral-400 max-w-xl">
               As combinações mais pedidas e elogiadas pelos nossos clientes, preparadas na hora com ingredientes frescos.
@@ -142,7 +142,7 @@ export const HighlightsSection: React.FC = () => {
 
                   <a
                     href={buildWhatsAppLink(
-                      `Olá! Vim pelo site da Dennys pizzaria e gostaria de pedir a pizza *${pizza.name}* (${currentSize?.name || 'Padrão'}) no valor de ${formatPriceBRL(currentPrice)}.`
+                      `Olá! Vim pelo site da Pizzaria Brasa Nobre e gostaria de pedir a pizza *${pizza.name}* (${currentSize?.name || 'Padrão'}) no valor de ${formatPriceBRL(currentPrice)}.`
                     )}
                     target="_blank"
                     rel="noopener noreferrer"

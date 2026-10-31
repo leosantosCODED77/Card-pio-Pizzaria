@@ -70,7 +70,7 @@ export const DifferentialsSection: React.FC = () => {
 
             <div className="mt-8">
               <a
-                href={buildWhatsAppLink('Olá! Gostaria de experimentar as pizzas da Dennys pizzaria.')}
+                href={buildWhatsAppLink('Olá! Gostaria de experimentar as pizzas da Pizzaria Brasa Nobre.')}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 px-5 py-3 text-sm font-semibold text-neutral-950 transition-all hover:brightness-110"

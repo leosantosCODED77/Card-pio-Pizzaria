@@ -107,7 +107,7 @@ export const Footer: React.FC = () => {
             © {new Date().getFullYear()} {siteConfig.name}. Todos os direitos reservados.
           </div>
           <div>
-            Imagens gastronômicas preparadas com IA de alta definição para a Dennys pizzaria.
+            Imagens gastronômicas preparadas com IA de alta definição para a Pizzaria Brasa Nobre.
           </div>
         </div>
       </div>

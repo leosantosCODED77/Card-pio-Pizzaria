@@ -19,7 +19,7 @@ export const FloatingWhatsApp: React.FC = () => {
         )}
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Abrir conversa no WhatsApp oficial da Dennys pizzaria"
+        aria-label="Abrir conversa no WhatsApp oficial da Pizzaria Brasa Nobre"
         className="relative flex h-14 w-14 items-center justify-center rounded-full bg-emerald-500 text-white shadow-xl shadow-emerald-950/40 transition-transform duration-200 hover:scale-110 hover:bg-emerald-400 active:scale-95 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-emerald-400/50"
       >
         <MessageCircle className="h-7 w-7 fill-white stroke-none" />

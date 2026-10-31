@@ -42,7 +42,7 @@ export const Hero: React.FC = () => {
             <div className="mt-8 flex flex-col sm:flex-row items-stretch sm:items-center gap-4">
               <a
                 href={buildWhatsAppLink(
-                  'Olá! Gostaria de pedir uma pizza artesanal da Dennys pizzaria. Pode me enviar o cardápio e o tempo de entrega de hoje?'
+                  'Olá! Gostaria de pedir uma pizza artesanal da Pizzaria Brasa Nobre. Pode me enviar o cardápio e o tempo de entrega de hoje?'
                 )}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -93,7 +93,7 @@ export const Hero: React.FC = () => {
               <div className="relative overflow-hidden rounded-2xl border border-neutral-800 bg-neutral-900 shadow-2xl">
                 <img
                   src="/src/assets/images/hero_artisan_pizza_1793233763555.jpg"
-                  alt="Pizza artesanal da Dennys pizzaria saindo do forno a lenha com queijo derretido e manjericão fresco"
+                  alt="Pizza artesanal da Pizzaria Brasa Nobre saindo do forno a lenha com queijo derretido e manjericão fresco"
                   referrerPolicy="no-referrer"
                   className="aspect-[4/3] w-full object-cover transition-transform duration-700 hover:scale-105"
                 />

@@ -14,7 +14,7 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: 'Dennys pizzaria',
+  name: 'Pizzaria Brasa Nobre',
   tagline: 'Massa artesanal de fermentação lenta & Forno a lenha',
   description:
     'A verdadeira experiência da pizza artesanal entregue na sua porta. Ingredientes nobres selecionados, fermentação lenta de 48 horas e assadas em alta temperatura.',
@@ -27,7 +27,7 @@ export const siteConfig: SiteConfig = {
   addressInfo: 'Atendimento e Delivery regional',
   deliveryZone: 'Entregamos em toda a região metropolitana',
   defaultWelcomeMessage:
-    'Olá! Conheci a Dennys pizzaria pelo site e gostaria de mais informações.',
+    'Olá! Conheci a Pizzaria Brasa Nobre pelo site e gostaria de mais informações.',
 };
 
 /**

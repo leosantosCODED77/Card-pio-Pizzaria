@@ -216,7 +216,7 @@ export const MenuSection: React.FC = () => {
 
                     <a
                       href={buildWhatsAppLink(
-                        `Olá! Vim pelo site da Dennys pizzaria e gostaria de pedir *${item.name}*${
+                        `Olá! Vim pelo site da Pizzaria Brasa Nobre e gostaria de pedir *${item.name}*${
                           currentSize ? ` (${currentSize.name})` : ''
                         }${note ? ` [Obs: ${note}]` : ''} - Valor: ${formatPriceBRL(price)}.`
                       )}
