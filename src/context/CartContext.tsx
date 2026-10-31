@@ -40,8 +40,8 @@ interface CartContextType {
 
 const CartContext = createContext<CartContextType | undefined>(undefined);
 
-const STORAGE_KEY = 'dennys_pizzaria_cart_v1';
-const CUSTOMER_STORAGE_KEY = 'dennys_pizzaria_customer_v1';
+const STORAGE_KEY = 'pizzaria_brasa_nobre_cart_v1';
+const CUSTOMER_STORAGE_KEY = 'pizzaria_brasa_nobre_customer_v1';
 
 export const CartProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [items, setItems] = useState<CartItem[]>(() => {

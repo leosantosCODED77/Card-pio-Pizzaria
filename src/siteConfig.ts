@@ -5,7 +5,7 @@ export interface SiteConfig {
   segment: string;
   whatsappNumber: string; // international digits only, e.g. "5591999999999"
   whatsappFormatted: string; // e.g. "(91) 99999-9999"
-  instagramUsername: string; // e.g. "dennysPizzas"
+  instagramUsername: string; // e.g. "pizzariabrasanobre"
   operatingHours: string;
   deliveryEstimate: string;
   addressInfo: string;
@@ -21,7 +21,7 @@ export const siteConfig: SiteConfig = {
   segment: 'Delivery de Pizzas Artesanais',
   whatsappNumber: '5591999999999',
   whatsappFormatted: '(91) 99999-9999',
-  instagramUsername: 'dennysPizzas',
+  instagramUsername: 'pizzariabrasanobre',
   operatingHours: 'Terça a Domingo das 18h00 às 23h30',
   deliveryEstimate: '35 a 50 minutos',
   addressInfo: 'Atendimento e Delivery regional',
